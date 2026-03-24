@@ -21,7 +21,7 @@ I enjoy building web applications and solving real-world problems with code.
 - Task Manager
 - Portfolio Website
 
-## Currently Learning
+## Currently Working on
 - Backend development
 - APIs
 - Cloud deployment
