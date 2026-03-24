@@ -7,6 +7,8 @@ I enjoy building web applications and solving real-world problems with code.
 
 ## Skills
 - Python
+- React
+- APIs
 - JavaScript
 - HTML
 - CSS
@@ -14,8 +16,10 @@ I enjoy building web applications and solving real-world problems with code.
 
 ## Projects
 - Weather App
+- food Journal App
+- Octofit app
 - Task Manager
-- Blog Website
+- Portfolio Website
 
 ## Currently Learning
 - Backend development
@@ -23,7 +27,7 @@ I enjoy building web applications and solving real-world problems with code.
 - Cloud deployment
 
 ## Connect With Me
-LinkedIn: https://linkedin.com/in/patricia-kemirembe
+LinkedIn: https://www.linkedin.com/in/patricia-kemirembe-b808a2159/
 <!--
 **Trisha256/Trisha256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
